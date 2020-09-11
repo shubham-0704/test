@@ -8,3 +8,5 @@ def name():
 
 def print_crap():
     print("sjdjd")
+def crap():
+    print("shubham ")
